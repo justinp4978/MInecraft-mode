@@ -20,4 +20,4 @@ public class ItemSimple extends Item
     );
   }
 }
-*
+*it will make to appear but a maximun of 8 by changings the initial value 
